@@ -11,14 +11,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateMethod", "TemplateM
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator", "Decorator\Decorator.csproj", "{AA4ADC6A-C245-4A69-836A-4E9C4AE78952}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj", "{AFE91320-FD32-40CF-A867-8F7DCBC87D57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "State", "State\State.csproj", "{AFE91320-FD32-40CF-A867-8F7DCBC87D57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{56158028-3611-4F2E-A303-29C415BB9FD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "Builder\Builder.csproj", "{56158028-3611-4F2E-A303-29C415BB9FD9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DD22637B-E8FA-437D-B751-B5B52C7255F4}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{88D7EA30-2736-445E-871C-5C06F81561AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -50,6 +52,10 @@ Global
 		{56158028-3611-4F2E-A303-29C415BB9FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56158028-3611-4F2E-A303-29C415BB9FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56158028-3611-4F2E-A303-29C415BB9FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88D7EA30-2736-445E-871C-5C06F81561AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D7EA30-2736-445E-871C-5C06F81561AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D7EA30-2736-445E-871C-5C06F81561AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D7EA30-2736-445E-871C-5C06F81561AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
