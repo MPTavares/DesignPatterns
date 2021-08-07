@@ -20,7 +20,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{88D7EA30-2736-445E-871C-5C06F81561AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer", "Observer\Observer.csproj", "{88D7EA30-2736-445E-871C-5C06F81561AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{2BBFD4E4-6A9D-4878-B368-E5475B7BCEDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyweight.csproj", "{AE1C34A6-BB40-4792-86DF-E77BA904E4C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -56,6 +60,14 @@ Global
 		{88D7EA30-2736-445E-871C-5C06F81561AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88D7EA30-2736-445E-871C-5C06F81561AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88D7EA30-2736-445E-871C-5C06F81561AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BBFD4E4-6A9D-4878-B368-E5475B7BCEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BBFD4E4-6A9D-4878-B368-E5475B7BCEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BBFD4E4-6A9D-4878-B368-E5475B7BCEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BBFD4E4-6A9D-4878-B368-E5475B7BCEDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE1C34A6-BB40-4792-86DF-E77BA904E4C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE1C34A6-BB40-4792-86DF-E77BA904E4C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE1C34A6-BB40-4792-86DF-E77BA904E4C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE1C34A6-BB40-4792-86DF-E77BA904E4C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

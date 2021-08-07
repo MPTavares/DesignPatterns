@@ -10,4 +10,6 @@ On 08/05/2021 - **State and Builder**
 
 On 09/05/2021 - **Observer**
 
+On 09/06/2021 - **Factory and Flyweight**
+
 Soon, more...
