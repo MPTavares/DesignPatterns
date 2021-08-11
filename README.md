@@ -16,5 +16,6 @@ On 08/09/2021 - **Memento**
 
 On 08/10/2021 - **Interpreter**
 
+On 08/11/2021 - **Visitor**
 
 Soon, more...
