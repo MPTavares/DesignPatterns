@@ -18,4 +18,6 @@ On 08/10/2021 - **Interpreter**
 
 On 08/11/2021 - **Visitor**
 
+On 08/20/2021 - **Bridge**
+
 Soon, more...
